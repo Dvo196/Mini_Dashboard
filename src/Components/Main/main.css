@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.pack_1_images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
